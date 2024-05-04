@@ -1,0 +1,4 @@
+# gitignore for nvc VHDL
+
+work
+*.fst
